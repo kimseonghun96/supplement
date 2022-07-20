@@ -11,6 +11,8 @@
   * `git remote add origin <gitlab url>`
   * 잘못 적었을 경우 git remote remove origin하고 다시 적기!
 
+`gir remote -v` : 로컬 저장소를 원격 저장소에 연결
+
 `git status` : 상태 확인
 
 `git add .` : 모든 파일 다 올려줘
