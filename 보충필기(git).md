@@ -9,9 +9,6 @@
   * `git config --local user.email'<gitlab email>'` 
 * project / repository  연결
   * `git remote add origin <gitlab url>`
-  * 잘못 적었을 경우 git remote remove origin하고 다시 적기!
-
-`gir remote -v` : 로컬 저장소를 원격 저장소에 연결
 
 `git status` : 상태 확인
 
@@ -27,4 +24,6 @@
 
 - 푸쉬가 안될경우 
   
-  * git pull origin master --allow-unrelated-histories 해보기
+  1. git pull origin master --allow-unrelated-histories 해보기
+     
+     1
