@@ -5,7 +5,8 @@
 `git init` : git 시작
 
 * 계정 연결
-  * `git config --local user.username '<gitlab username>'`
+  * `git config --local user.username '<gitlab username>'`(파일안 계정연결,
+  * `전체 연결하려면 local -> global`
   * `git config --local user.email'<gitlab email>'` 
 * project / repository  연결
   * `git remote add origin <gitlab url>`
